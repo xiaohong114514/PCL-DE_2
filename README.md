@@ -12,14 +12,14 @@
 
 本项目在界面设计、功能思路与实现方式上参考了 PCL2，原作者：**龙腾猫跃**
 
-- 原项目仓库：https://github.com/Meloong-Git/PCL
-- 作者赞助链接：https://meloong.com/afd/a/LTCat
+- PCL原版项目仓库：https://github.com/Meloong-Git/PCL
+- PCL原版赞助链接：https://meloong.com/afd/a/LTCat
 
 ## 项目简介
 
 （开发中，功能规划待补充）
 
-计划方向：轻量化 Minecraft Java 版启动器。
+计划方向：轻量化 Minecraft Java 版下载器。
 
 ## 目录结构
 
@@ -40,3 +40,7 @@ PCL-DE_2/
 ## 开源协议
 
 详见仓库根目录 [`LICENCE`](./LICENCE)。本项目沿用《PCL 分发有限许可》与《PCL 存储库合理使用指南》，未采用 MIT / GPL 等标准开源协议。
+
+##注意！
+
+本账号有时有豆包AI接管，不一定可信
